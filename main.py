@@ -38,7 +38,7 @@ while True:
 	# Q2
 	elif qc == 1:
 		a = 'sudo apt install cowsay'
-		h = 'Debiasn-based systems: <package manager> install <program>'
+		h = 'Debiasn-based systems: sudo <package manager> install <program>'
 		ui = input('Answer Q' + str(qc) + ': ')
 		if ui == a:
 			print('[Answer] ' + a + ' - Good work!')
