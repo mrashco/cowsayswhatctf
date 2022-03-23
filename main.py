@@ -166,4 +166,4 @@ while True:
 			# cq = 'x'
 			# print('Q' + str(qc) + ': ' + cq)
 			break
-print('Flag: cowsayWhatCTF{M00_M3_P!3@$3} - Well done, you finished the CTF!')
+print('Flag: cowsaysWhatCTF{M00_M3_P!3@$3} - Well done, you finished the CTF!')
