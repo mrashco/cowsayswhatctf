@@ -6,8 +6,8 @@
 cq = '[Research] What linux program can make a cow say something?' # Current Question
 
 print('''Welcome to Cowsays What CTF!! 
-You'll have 15 questions to complete, use google, a debian based lnux distro and a bash CLI.
-For help, enter 'help' if you need help, or enter 'hint' if you need a hint.
+You'll have 14 questions to complete, use google, a debian based lnux distro and a bash CLI.
+Use 'help' to see the question again, and use 'hint' if you're stuck on the question.
 
 Question 0: ''' + cq)
 
